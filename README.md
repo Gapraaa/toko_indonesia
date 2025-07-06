@@ -16,7 +16,6 @@
 - Frontend: Blade + Tailwind CSS  
 - Database: MySQL atau PostgreSQL  
 - Bundler: Vite  
-- Otentikasi: Laravel Breeze / Sanctum (jika diterapkan)  
 - Testing: PHPUnit
 
 ## 📥 Instalasi
