@@ -1,15 +1,14 @@
 
-# 🏬 Toko Indonesia
+# 📦 Toko Indonesia – Pendataan Barang Supplier
 
-**Toko Indonesia** adalah aplikasi e‑commerce sederhana untuk bisnis retail online di Indonesia. Proyek ini memungkinkan pengguna menjual dan membeli produk secara mudah dengan antarmuka ramah pengguna dan sistem manajemen toko dasar.
+**Toko Indonesia** adalah aplikasi berbasis web sederhana yang digunakan untuk melakukan pendataan barang dari supplier. Proyek ini ditujukan untuk membantu proses pencatatan stok barang masuk secara efisien dan terstruktur.
 
-## 🚀 Fitur Utama
+## 🎯 Fitur Utama
 
-- 📦 Kelola produk: tambah, edit, hapus
-- 🛒 Keranjang belanja dan checkout sederhana
-- 👤 Otentikasi pengguna (register, login, logout)
-- 📝 Halaman profil dan riwayat pesanan
-- 📊 Dashboard admin: kelola produk dan pesanan
+- Tambah, edit, dan hapus data barang dari supplier
+- Input informasi barang: nama, kategori, jumlah, harga, dan supplier
+- Riwayat barang masuk
+- Dashboard ringkas untuk melihat data stok
 
 ## 💻 Teknologi
 
